@@ -1,6 +1,4 @@
-Here is the clean **README** text without special characters:  
-
- Gas Utility Management System - Flask Application  
+Gas Utility Management System - Flask Application  
 
 This is a simple Flask-based application for a gas utility company to manage customer service requests. The application allows users to submit service requests, track their status, and manage account information.  
 
